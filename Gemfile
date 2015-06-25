@@ -36,6 +36,8 @@ gem 'bootstrap-sass', '~> 3.3.0'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 
+gem "factory_girl_rails", "~> 4.0"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
